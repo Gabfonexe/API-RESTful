@@ -22,7 +22,7 @@ public class Cartao {
   @Column(unique = true) // Significa que só pode haver 1 número de cartão para cada 
   private String numero;
 
-  @Column(name = "limite_disponivel",scale = 13, precision = 2) // 11 inteiros e 2 decimais de precisão
+  @Column(name = "limite_disponivel",precision = 13, scale = 2) // 11 inteiros e 2 decimais de precisão
   private BigDecimal limite;
 
 }

@@ -24,10 +24,10 @@ public class Conta {
 
   private String agencia;
 
-  @Column(scale = 13, precision = 2) // 11 inteiros e 2 decimais de precisão
+  @Column(precision = 13, scale = 2) // 11 inteiros e 2 decimais de precisão
   private BigDecimal saldo;
 
-  @Column(name = "limite_adicional", scale = 13, precision = 2)
+  @Column(name = "limite_adicional", precision = 13, scale = 2)
   private BigDecimal limite;
 
 }
