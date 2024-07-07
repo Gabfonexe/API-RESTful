@@ -8,10 +8,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
-import me.gabriel.bootcamp_dio_2024.domain.model.Usuario;
-import me.gabriel.bootcamp_dio_2024.domain.service.UsuarioService;
 
 @RestControllerAdvice
 public class GlobalExceptionHandler {
