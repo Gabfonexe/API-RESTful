@@ -1,3 +1,19 @@
+# Esse é um projeto sobre a construção de uma API RESTful 👨‍💻
+
+
+```
+Realizei este projeto com as seguintes tecnologias:
+
+Java - SpringBoot (JPA, PostgreSQL Driver, Lombok, Dev Tools)
+Gradle - Gerenciador de dependências
+PostgreSQL - Banco de Dados
+RailWay - Hospedagem
+Figma - Design do projeto
+
+```
+
+
+
 ## Diagrama de Classes (Domínio da API)
 
 ```mermaid
@@ -36,4 +52,10 @@ classDiagram
   User "1" *-- "N" Feature
   User "1" *-- "1" Card
   User "1" *-- "N" News
+```
+
+
+
+```
+
 ```
