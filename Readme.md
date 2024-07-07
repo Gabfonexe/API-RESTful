@@ -1,5 +1,8 @@
 # API RESTful 👨‍💻
 
+O conceito deste projeto é implementar a construção de uma API de um banco digital, 
+realizando todas as principais funções e integrando ao banco de dados.
+
 
 ```
 Realizei este projeto com as seguintes tecnologias:
