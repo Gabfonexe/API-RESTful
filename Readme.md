@@ -1,4 +1,4 @@
-# Esse é um projeto sobre a construção de uma API RESTful 👨‍💻
+# API RESTful 👨‍💻
 
 
 ```
