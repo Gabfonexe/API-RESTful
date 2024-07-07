@@ -9,7 +9,7 @@ Gradle - Gerenciador de dependências
 PostgreSQL - Banco de Dados
 RailWay - Hospedagem
 Figma - Design do projeto
-
+MVC e Design Patterns
 ```
 
 
