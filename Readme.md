@@ -3,6 +3,8 @@
 O conceito deste projeto é implementar a construção de uma API de um banco digital, 
 realizando todas as principais funções e integrando ao banco de dados.
 
+Esse Projeto é uma base de estudos que obtive através do BootCamp DIO SANTANDER 2024, 
+houveram algunas modificações e haveram mais modificações na API, principalmente nos endpoints.
 
 ```
 Realizei este projeto com as seguintes tecnologias:
